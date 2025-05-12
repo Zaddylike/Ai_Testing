@@ -1,0 +1,4 @@
+train: ../images/train  
+val:   ../images/val
+nc:    <你的 class 數>
+names: [ button, icon, ... ]
