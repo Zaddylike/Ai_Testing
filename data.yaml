@@ -1,7 +1,7 @@
 # data.yaml
 path: dataset          
-train: images/train            
-val: images/val                   
+train: C:\Users\Administrator\Documents\tmp\dataset\images\train            
+val: C:\Users\Administrator\Documents\tmp\dataset\images\val                 
 
 nc: 1                            
 names:                       
